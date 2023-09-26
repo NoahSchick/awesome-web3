@@ -57,5 +57,8 @@
 ### Web3 Job boards
   * [MyWeb3Jobs](https://myweb3jobs.com)
 
+### Web3 Gas Tools
+  * [Ethereum Gas Calculator](https://gascalculator.xyz/)
+
 ## How to contribute
 Wanna see your favourite link here? Just file an issue or directly add a PR with your helpful links :)
